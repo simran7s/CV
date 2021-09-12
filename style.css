@@ -1,0 +1,41 @@
+body {
+  background-color: #d4ecdd;
+}
+
+hr {
+  border-style: none;
+  border-radius: 5px;
+  border-width: 10px;
+  height: 5px;
+  width: 100%;
+  background-color: #112031;
+}
+
+h1,
+h3 {
+  color: #345b63;
+}
+
+p,
+a,
+li,
+table {
+  color: #112031;
+}
+
+div {
+  /* background-color: #c9dfd1; */
+  border-radius: 10px;
+  padding: 2px;
+}
+.emojiContainer {
+  height: 2 0px;
+  width: 20px;
+  background-color: none;
+  border-radius: 2px;
+  display: inline-block;
+}
+.emoji {
+  max-width: 100%;
+  max-height: 100%;
+}
